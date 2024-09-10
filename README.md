@@ -12,6 +12,5 @@ ex.: pbd1atv1 (atividade 1)
 
 git remote add pbd1atv1 https://github.com/fernando7fatec/pbd1atv1.git
 
-git remote add pbd1atv1 https://github.com/fernando7fatec/pbd1atv1.git
 
 
